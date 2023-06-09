@@ -1,0 +1,5 @@
+git add .
+git commit -m "first commit"
+git branch -M main
+girt remote add origin https://github.com/mehabubdot/HTML.git
+git oush -u origin main
